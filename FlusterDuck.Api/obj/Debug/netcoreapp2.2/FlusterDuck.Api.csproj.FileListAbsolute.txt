@@ -1,0 +1,14 @@
+C:\source\flusterduck\FlusterDuck.Api\bin\Debug\netcoreapp2.2\FlusterDuck.Api.deps.json
+C:\source\flusterduck\FlusterDuck.Api\bin\Debug\netcoreapp2.2\FlusterDuck.Api.runtimeconfig.json
+C:\source\flusterduck\FlusterDuck.Api\bin\Debug\netcoreapp2.2\FlusterDuck.Api.runtimeconfig.dev.json
+C:\source\flusterduck\FlusterDuck.Api\bin\Debug\netcoreapp2.2\FlusterDuck.Api.dll
+C:\source\flusterduck\FlusterDuck.Api\bin\Debug\netcoreapp2.2\FlusterDuck.Api.pdb
+C:\source\flusterduck\FlusterDuck.Api\obj\Debug\netcoreapp2.2\FlusterDuck.Api.csprojAssemblyReference.cache
+C:\source\flusterduck\FlusterDuck.Api\obj\Debug\netcoreapp2.2\FlusterDuck.Api.csproj.CoreCompileInputs.cache
+C:\source\flusterduck\FlusterDuck.Api\obj\Debug\netcoreapp2.2\FlusterDuck.Api.RazorAssemblyInfo.cache
+C:\source\flusterduck\FlusterDuck.Api\obj\Debug\netcoreapp2.2\FlusterDuck.Api.RazorAssemblyInfo.cs
+C:\source\flusterduck\FlusterDuck.Api\obj\Debug\netcoreapp2.2\FlusterDuck.Api.AssemblyInfoInputs.cache
+C:\source\flusterduck\FlusterDuck.Api\obj\Debug\netcoreapp2.2\FlusterDuck.Api.AssemblyInfo.cs
+C:\source\flusterduck\FlusterDuck.Api\obj\Debug\netcoreapp2.2\FlusterDuck.Api.RazorTargetAssemblyInfo.cache
+C:\source\flusterduck\FlusterDuck.Api\obj\Debug\netcoreapp2.2\FlusterDuck.Api.dll
+C:\source\flusterduck\FlusterDuck.Api\obj\Debug\netcoreapp2.2\FlusterDuck.Api.pdb
