@@ -19,7 +19,7 @@ build_script:
 after_build:
   # For once the build has completed
 artifacts:
- - path: '.\FlusterDuck.Api\bin\Debug\netcoreapp1.1\publish'
+ - path: '.\FlusterDuck.Api\bin\Debug\netcoreapp1.1\publish\'
    name: WebApi
    type: WebDeployPackage
 clone_depth: 1
